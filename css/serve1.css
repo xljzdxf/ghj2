@@ -1,0 +1,53 @@
+.col-lg-0{
+		display: none;
+	}
+@media only screen and (max-width:1200px){
+	.col-md-0{
+		display: none;
+	}
+}
+@media only screen and (max-width:993px){
+	.col-sm-0{
+		display: none;
+	}
+}
+@media only screen and (max-width:768px){
+	.col-xs-0{
+		display: none;
+	}
+}
+.red{
+	background: red;
+	height: 64px;
+}
+.header{
+	height: 26px;
+}
+.nav{
+	height: 64px;
+}
+.green{
+	background: green;
+	height: 64px;
+}
+.blue{
+	background: blue;
+	height: 64px;
+}
+.grey{
+	background: grey;
+}
+.pink{
+	background: pink;
+	height: 50px;
+}
+.greenyellow{
+	background: greenyellow;
+	height: 38.9vw;
+}
+/*.col-md-0{
+	display: none;
+}
+.col-sm-0{
+	display: none;
+}*/
